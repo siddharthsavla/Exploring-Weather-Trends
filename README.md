@@ -11,7 +11,5 @@ pip install matplotlib
 pip install seaborn
 ```
 
-## Contribution
-Pull requests are welcome, but for major changes please open an issue to discuss it. 
 
 
